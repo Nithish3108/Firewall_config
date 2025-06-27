@@ -67,3 +67,7 @@ Status: active
 [ 3] 23/tcp (v6)                DENY IN     Anywhere (v6)             
 [ 4] 22/tcp (v6)                ALLOW IN    Anywhere (v6) 
 
+
+## to restore orginal state
+
+# sudo ufw reset
